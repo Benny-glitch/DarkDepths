@@ -1,0 +1,1836 @@
+fileFormatVersion: 2
+guid: 8f0b30b0f79f24d359d5e9d933d97e3c
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Attacks
+    second: {fileID: 7400000, guid: 866e0c8a353864b79924d26a4077dc11, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Bullet
+    second: {fileID: 7400000, guid: 11d830afb80d6496d866f332427e7334, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Death
+    second: {fileID: 7400000, guid: f69d1763b7677468f82594c80fbceec8, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Hand Cannon
+    second: {fileID: 7400000, guid: e6caaf539385144938532046abec6c74, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Hit
+    second: {fileID: 7400000, guid: 14b47d55a29f441c781dd4403d22d14b, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Idle
+    second: {fileID: 7400000, guid: 89b2eb75f05a542e9bebe8ad188bb5e6, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Jump
+    second: {fileID: 7400000, guid: 23add58ce8c744f3c9d49b709ecc1fb3, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Run
+    second: {fileID: 7400000, guid: b9412c3eb527744b78a87ca8b3fc2ce8, type: 2}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 1
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 1
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638555367439928740
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Mechanic Mike_Frame_0
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 139
+      y: 190
+      width: 24
+      height: 31
+    spriteID: 31ef0a2537f7d4fe7953e6fbfdbdda1b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 139, y: 190}
+  - name: Mechanic Mike_Frame_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 139
+      y: 229
+      width: 24
+      height: 31
+    spriteID: 037773c3c35c74e3aa72967d706633bf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 139, y: 229}
+  - name: Mechanic Mike_Frame_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 107
+      y: 468
+      width: 23
+      height: 31
+    spriteID: 103ed5bae342742f6a84389b53a396e3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 107, y: 468}
+  - name: Mechanic Mike_Frame_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 107
+      y: 278
+      width: 24
+      height: 30
+    spriteID: 9b9746f32f25f43cfad2b6f86be1c748
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 107, y: 278}
+  - name: Mechanic Mike_Frame_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 107
+      y: 316
+      width: 24
+      height: 30
+    spriteID: d4ecc799fba36473b9a1ecad6b2218a8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 107, y: 316}
+  - name: Mechanic Mike_Frame_5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 139
+      y: 268
+      width: 24
+      height: 31
+    spriteID: 3123e4e59077f49a7a3cf514aa925fd5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 139, y: 268}
+  - name: Mechanic Mike_Frame_6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 139
+      y: 307
+      width: 24
+      height: 31
+    spriteID: 162476547844d494da7022e5fdcc4403
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 139, y: 307}
+  - name: Mechanic Mike_Frame_7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 107
+      y: 354
+      width: 24
+      height: 30
+    spriteID: 33d3d4882b5184d02916af1cb0d93744
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 107, y: 354}
+  - name: Mechanic Mike_Frame_8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 139
+      y: 346
+      width: 24
+      height: 31
+    spriteID: ea9a94f2bf7044a7fa7002411125b829
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 139, y: 346}
+  - name: Mechanic Mike_Frame_9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 107
+      y: 392
+      width: 24
+      height: 30
+    spriteID: 747717715544e40f1b2d76d6ee7cdde4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 107, y: 392}
+  - name: Mechanic Mike_Frame_10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 139
+      y: 152
+      width: 25
+      height: 30
+    spriteID: 8d38cb4729d7e48589c0930af7873d57
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 139, y: 152}
+  - name: Mechanic Mike_Frame_11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 139
+      y: 385
+      width: 24
+      height: 31
+    spriteID: d85ffbe246fc244518ac8199538e70a4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 139, y: 385}
+  - name: Mechanic Mike_Frame_12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 107
+      y: 430
+      width: 24
+      height: 30
+    spriteID: 6bdfdc65c66d24d478b3675d5e8da496
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 107, y: 430}
+  - name: Mechanic Mike_Frame_13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 70
+      y: 360
+      width: 25
+      height: 32
+    spriteID: b9a446a3b5e3b40999e2d1d6e14f3df7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 70, y: 360}
+  - name: Mechanic Mike_Frame_14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 70
+      y: 241
+      width: 24
+      height: 34
+    spriteID: 62e66315142a7412ba52567a7d69c704
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 70, y: 241}
+  - name: Mechanic Mike_Frame_15
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 107
+      y: 4
+      width: 24
+      height: 32
+    spriteID: 0654361125d334108ad7668ea0377989
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 107, y: 4}
+  - name: Mechanic Mike_Frame_16
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 70
+      y: 437
+      width: 26
+      height: 30
+    spriteID: 25840e478a64a4943b0db86cf9a19a83
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 70, y: 437}
+  - name: Mechanic Mike_Frame_17
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 139
+      y: 4
+      width: 26
+      height: 29
+    spriteID: e984a5c2fe6804f828b562ceb8fe5ae4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 139, y: 4}
+  - name: Mechanic Mike_Frame_18
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 70
+      y: 80
+      width: 28
+      height: 31
+    spriteID: 07b8951e44a74478d9cf74a8cb8782f2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 70, y: 80}
+  - name: Mechanic Mike_Frame_19
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 70
+      y: 119
+      width: 26
+      height: 32
+    spriteID: df9b2f1ef02d048e698a82ba633da6a6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 70, y: 119}
+  - name: Mechanic Mike_Frame_20
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 233
+      width: 38
+      height: 41
+    spriteID: 1bff3b347ba83482b9ed97edddac3e23
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 233}
+  - name: Mechanic Mike_Frame_21
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 282
+      width: 37
+      height: 41
+    spriteID: 9842e3aa263ca4bd29aabe3e8a42d2e3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 282}
+  - name: Mechanic Mike_Frame_22
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 371
+      width: 39
+      height: 31
+    spriteID: a36415edf197344ddba0e7f5d0951539
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 371}
+  - name: Mechanic Mike_Frame_23
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 70
+      y: 159
+      width: 25
+      height: 33
+    spriteID: 1cc467832937c446f9fa5656bb100899
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 70, y: 159}
+  - name: Mechanic Mike_Frame_24
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 139
+      y: 41
+      width: 26
+      height: 29
+    spriteID: 44600f8aecf894bcbb3bc203bef80c9f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 139, y: 41}
+  - name: Mechanic Mike_Frame_25
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 139
+      y: 424
+      width: 24
+      height: 31
+    spriteID: 17642651163ba4ad7a738a6e52fce5b4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 139, y: 424}
+  - name: Mechanic Mike_Frame_27
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 331
+      width: 41
+      height: 32
+    spriteID: cf9582ea972ff406bb3d0a9ff3b42fa3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 331}
+  - name: Mechanic Mike_Frame_28
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 410
+      width: 38
+      height: 31
+    spriteID: 921985edde5844bc18c976a255ecf8f2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 410}
+  - name: Mechanic Mike_Frame_29
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 70
+      y: 200
+      width: 25
+      height: 33
+    spriteID: bd30df13057844d22a6d62b198d5be93
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 70, y: 200}
+  - name: Mechanic Mike_Frame_30
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 139
+      y: 78
+      width: 26
+      height: 29
+    spriteID: 1b07ab5e023554282b3352ca01e856a9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 139, y: 78}
+  - name: Mechanic Mike_Frame_31
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 139
+      y: 463
+      width: 24
+      height: 31
+    spriteID: 65aa674979482450ea0ad65be7edda03
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 139, y: 463}
+  - name: Mechanic Mike_Frame_32
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 107
+      y: 44
+      width: 24
+      height: 31
+    spriteID: b070acf3ca5f241d39c2ca7017e613a1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 107, y: 44}
+  - name: Mechanic Mike_Frame_33
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 107
+      y: 83
+      width: 24
+      height: 31
+    spriteID: bbfefad5105d0498d85795540fd9dbac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 107, y: 83}
+  - name: Mechanic Mike_Frame_34
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 70
+      y: 321
+      width: 26
+      height: 31
+    spriteID: 0f291a6ab9452438d85b3fc7977870d9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 70, y: 321}
+  - name: Mechanic Mike_Frame_35
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 139
+      y: 115
+      width: 26
+      height: 29
+    spriteID: 22b916e6ced334f448a3fc24eb075a3e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 139, y: 115}
+  - name: Mechanic Mike_Frame_36
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 107
+      y: 122
+      width: 24
+      height: 31
+    spriteID: da513c1f01d334234a21e373ceb5afe0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 107, y: 122}
+  - name: Mechanic Mike_Frame_37
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 107
+      y: 161
+      width: 24
+      height: 31
+    spriteID: 3ed074f6cb95c426d9b979ca62dfb321
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 107, y: 161}
+  - name: Mechanic Mike_Frame_38
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 70
+      y: 400
+      width: 27
+      height: 29
+    spriteID: 014b8b007853a44279fa4970d1fa25d7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 70, y: 400}
+  - name: Mechanic Mike_Frame_39
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 173
+      y: 4
+      width: 31
+      height: 21
+    spriteID: bcb93931469eb498a8bc4ab32199dcfd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 173, y: 4}
+  - name: Mechanic Mike_Frame_40
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 491
+      width: 31
+      height: 17
+    spriteID: 1e43a19b342ca43fc8dfa38dfd34851c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 491}
+  - name: Mechanic Mike_Frame_41
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 173
+      y: 33
+      width: 31
+      height: 20
+    spriteID: 5a79973f78544491f9907f10f950da25
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 173, y: 33}
+  - name: Mechanic Mike_Frame_42
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 173
+      y: 92
+      width: 31
+      height: 16
+    spriteID: 7ed26744a13d54a55883cbdf55800b51
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 173, y: 92}
+  - name: Mechanic Mike_Frame_43
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 173
+      y: 116
+      width: 31
+      height: 16
+    spriteID: e4096375bf6944295a2c7512eb75eee0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 173, y: 116}
+  - name: Mechanic Mike_Frame_44
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 107
+      y: 200
+      width: 24
+      height: 31
+    spriteID: d4f621e8e41564797a0bed7697310c14
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 107, y: 200}
+  - name: Mechanic Mike_Frame_45
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 70
+      y: 283
+      width: 27
+      height: 30
+    spriteID: 868f66e42ed7b4ffb82cd43723ccf497
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 70, y: 283}
+  - name: Mechanic Mike_Frame_46
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 70
+      y: 4
+      width: 29
+      height: 30
+    spriteID: 312dc629d873f4321ae863f42573413a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 70, y: 4}
+  - name: Mechanic Mike_Frame_47
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 195
+      width: 52
+      height: 30
+    spriteID: d8b4e3bd2e1494d1486aaa746374e153
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 195}
+  - name: Mechanic Mike_Frame_48
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 156
+      width: 52
+      height: 31
+    spriteID: 7298900a7b2a84db6a87cc17b530a582
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 156}
+  - name: Mechanic Mike_Frame_49
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 109
+      width: 48
+      height: 39
+    spriteID: d719026ff1c004435944cd7a52f2a507
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 109}
+  - name: Mechanic Mike_Frame_50
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 56
+      width: 55
+      height: 45
+    spriteID: de35c559cf9034444873a04cf9a7150c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 56}
+  - name: Mechanic Mike_Frame_51
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 58
+      height: 44
+    spriteID: 28d1989c4479d4e628ac471e4b472bf2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Mechanic Mike_Frame_52
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 70
+      y: 475
+      width: 25
+      height: 31
+    spriteID: e8f354ffef7bf4a49bdd9dd853546d7f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 70, y: 475}
+  - name: Mechanic Mike_Frame_53
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 107
+      y: 239
+      width: 24
+      height: 31
+    spriteID: 60d7c6464693f4d06adf413f80bff525
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 107, y: 239}
+  - name: Mechanic Mike_Frame_26
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 70
+      y: 42
+      width: 29
+      height: 30
+    spriteID: 20f87d79a8ee54af9a64f59c1d01daf6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 70, y: 42}
+  - name: Mechanic Mike_Frame_54
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 173
+      y: 140
+      width: 21
+      height: 7
+    spriteID: 41fc6759b500649c89039e8380c85dbc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 173, y: 140}
+  - name: Mechanic Mike_Frame_55
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 43
+      y: 491
+      width: 9
+      height: 9
+    spriteID: 1f9ed1c3f372d40ac94889bfdf4eb35d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 43, y: 491}
+  - name: Mechanic Mike_Frame_56
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 173
+      y: 61
+      width: 22
+      height: 23
+    spriteID: f4520062998fc449194bc0ad62bcb418
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 173, y: 61}
+  - name: Mechanic Mike_Frame_57
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 7
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 449
+      width: 34
+      height: 34
+    spriteID: 9f9bd09a1a0ea460db781030fb646432
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 449}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 430842374
+    name: Mechanic Mike
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Mechanic Mike_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 26
+        y: 16
+        width: 24
+        height: 31
+      spriteId: 31ef0a2537f7d4fe7953e6fbfdbdda1b
+    - name: Mechanic Mike_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 26
+        y: 16
+        width: 24
+        height: 31
+      spriteId: 037773c3c35c74e3aa72967d706633bf
+    - name: Mechanic Mike_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 26
+        y: 16
+        width: 23
+        height: 31
+      spriteId: 103ed5bae342742f6a84389b53a396e3
+    - name: Mechanic Mike_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 26
+        y: 16
+        width: 24
+        height: 30
+      spriteId: 9b9746f32f25f43cfad2b6f86be1c748
+    - name: Mechanic Mike_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 26
+        y: 16
+        width: 24
+        height: 30
+      spriteId: d4ecc799fba36473b9a1ecad6b2218a8
+    - name: Mechanic Mike_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 26
+        y: 16
+        width: 24
+        height: 31
+      spriteId: 3123e4e59077f49a7a3cf514aa925fd5
+    - name: Mechanic Mike_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 26
+        y: 16
+        width: 24
+        height: 31
+      spriteId: 162476547844d494da7022e5fdcc4403
+    - name: Mechanic Mike_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 26
+        y: 19
+        width: 24
+        height: 30
+      spriteId: 33d3d4882b5184d02916af1cb0d93744
+    - name: Mechanic Mike_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 26
+        y: 17
+        width: 24
+        height: 31
+      spriteId: ea9a94f2bf7044a7fa7002411125b829
+    - name: Mechanic Mike_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 26
+        y: 16
+        width: 24
+        height: 30
+      spriteId: 747717715544e40f1b2d76d6ee7cdde4
+    - name: Mechanic Mike_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 26
+        y: 19
+        width: 25
+        height: 30
+      spriteId: 8d38cb4729d7e48589c0930af7873d57
+    - name: Mechanic Mike_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 26
+        y: 17
+        width: 24
+        height: 31
+      spriteId: d85ffbe246fc244518ac8199538e70a4
+    - name: Mechanic Mike_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 26
+        y: 16
+        width: 24
+        height: 30
+      spriteId: 6bdfdc65c66d24d478b3675d5e8da496
+    - name: Mechanic Mike_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 26
+        y: 16
+        width: 25
+        height: 32
+      spriteId: b9a446a3b5e3b40999e2d1d6e14f3df7
+    - name: Mechanic Mike_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 26
+        y: 17
+        width: 24
+        height: 34
+      spriteId: 62e66315142a7412ba52567a7d69c704
+    - name: Mechanic Mike_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 26
+        y: 18
+        width: 24
+        height: 32
+      spriteId: 0654361125d334108ad7668ea0377989
+    - name: Mechanic Mike_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 25
+        y: 17
+        width: 26
+        height: 30
+      spriteId: 25840e478a64a4943b0db86cf9a19a83
+    - name: Mechanic Mike_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 25
+        y: 16
+        width: 26
+        height: 29
+      spriteId: e984a5c2fe6804f828b562ceb8fe5ae4
+    - name: Mechanic Mike_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 25
+        y: 16
+        width: 28
+        height: 31
+      spriteId: 07b8951e44a74478d9cf74a8cb8782f2
+    - name: Mechanic Mike_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 28
+        y: 16
+        width: 26
+        height: 32
+      spriteId: df9b2f1ef02d048e698a82ba633da6a6
+    - name: Mechanic Mike_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 30
+        y: 8
+        width: 38
+        height: 41
+      spriteId: 1bff3b347ba83482b9ed97edddac3e23
+    - name: Mechanic Mike_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 30
+        y: 8
+        width: 37
+        height: 41
+      spriteId: 9842e3aa263ca4bd29aabe3e8a42d2e3
+    - name: Mechanic Mike_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 29
+        y: 17
+        width: 39
+        height: 31
+      spriteId: a36415edf197344ddba0e7f5d0951539
+    - name: Mechanic Mike_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 29
+        y: 15
+        width: 25
+        height: 33
+      spriteId: 1cc467832937c446f9fa5656bb100899
+    - name: Mechanic Mike_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 25
+        y: 16
+        width: 26
+        height: 29
+      spriteId: 44600f8aecf894bcbb3bc203bef80c9f
+    - name: Mechanic Mike_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 26
+        y: 16
+        width: 24
+        height: 31
+      spriteId: 17642651163ba4ad7a738a6e52fce5b4
+    - name: Mechanic Mike_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 27
+        y: 17
+        width: 41
+        height: 32
+      spriteId: cf9582ea972ff406bb3d0a9ff3b42fa3
+    - name: Mechanic Mike_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 30
+        y: 18
+        width: 38
+        height: 31
+      spriteId: 921985edde5844bc18c976a255ecf8f2
+    - name: Mechanic Mike_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 29
+        y: 15
+        width: 25
+        height: 33
+      spriteId: bd30df13057844d22a6d62b198d5be93
+    - name: Mechanic Mike_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 25
+        y: 16
+        width: 26
+        height: 29
+      spriteId: 1b07ab5e023554282b3352ca01e856a9
+    - name: Mechanic Mike_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: 26
+        y: 16
+        width: 24
+        height: 31
+      spriteId: 65aa674979482450ea0ad65be7edda03
+    - name: Mechanic Mike_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: 25
+        y: 17
+        width: 24
+        height: 31
+      spriteId: b070acf3ca5f241d39c2ca7017e613a1
+    - name: Mechanic Mike_Frame_33
+      frameIndex: 33
+      cellRect:
+        x: 25
+        y: 17
+        width: 24
+        height: 31
+      spriteId: bbfefad5105d0498d85795540fd9dbac
+    - name: Mechanic Mike_Frame_34
+      frameIndex: 34
+      cellRect:
+        x: 25
+        y: 16
+        width: 26
+        height: 31
+      spriteId: 0f291a6ab9452438d85b3fc7977870d9
+    - name: Mechanic Mike_Frame_35
+      frameIndex: 35
+      cellRect:
+        x: 25
+        y: 16
+        width: 26
+        height: 29
+      spriteId: 22b916e6ced334f448a3fc24eb075a3e
+    - name: Mechanic Mike_Frame_36
+      frameIndex: 36
+      cellRect:
+        x: 26
+        y: 16
+        width: 24
+        height: 31
+      spriteId: da513c1f01d334234a21e373ceb5afe0
+    - name: Mechanic Mike_Frame_37
+      frameIndex: 37
+      cellRect:
+        x: 25
+        y: 17
+        width: 24
+        height: 31
+      spriteId: 3ed074f6cb95c426d9b979ca62dfb321
+    - name: Mechanic Mike_Frame_38
+      frameIndex: 38
+      cellRect:
+        x: 18
+        y: 19
+        width: 27
+        height: 29
+      spriteId: 014b8b007853a44279fa4970d1fa25d7
+    - name: Mechanic Mike_Frame_39
+      frameIndex: 39
+      cellRect:
+        x: 8
+        y: 16
+        width: 31
+        height: 21
+      spriteId: bcb93931469eb498a8bc4ab32199dcfd
+    - name: Mechanic Mike_Frame_40
+      frameIndex: 40
+      cellRect:
+        x: 8
+        y: 16
+        width: 31
+        height: 17
+      spriteId: 1e43a19b342ca43fc8dfa38dfd34851c
+    - name: Mechanic Mike_Frame_41
+      frameIndex: 41
+      cellRect:
+        x: 8
+        y: 16
+        width: 31
+        height: 20
+      spriteId: 5a79973f78544491f9907f10f950da25
+    - name: Mechanic Mike_Frame_42
+      frameIndex: 42
+      cellRect:
+        x: 8
+        y: 16
+        width: 31
+        height: 16
+      spriteId: 7ed26744a13d54a55883cbdf55800b51
+    - name: Mechanic Mike_Frame_43
+      frameIndex: 43
+      cellRect:
+        x: 8
+        y: 16
+        width: 31
+        height: 16
+      spriteId: e4096375bf6944295a2c7512eb75eee0
+    - name: Mechanic Mike_Frame_44
+      frameIndex: 44
+      cellRect:
+        x: 26
+        y: 16
+        width: 24
+        height: 31
+      spriteId: d4f621e8e41564797a0bed7697310c14
+    - name: Mechanic Mike_Frame_45
+      frameIndex: 45
+      cellRect:
+        x: 27
+        y: 16
+        width: 27
+        height: 30
+      spriteId: 868f66e42ed7b4ffb82cd43723ccf497
+    - name: Mechanic Mike_Frame_46
+      frameIndex: 46
+      cellRect:
+        x: 28
+        y: 16
+        width: 29
+        height: 30
+      spriteId: 312dc629d873f4321ae863f42573413a
+    - name: Mechanic Mike_Frame_47
+      frameIndex: 47
+      cellRect:
+        x: 28
+        y: 16
+        width: 52
+        height: 30
+      spriteId: d8b4e3bd2e1494d1486aaa746374e153
+    - name: Mechanic Mike_Frame_48
+      frameIndex: 48
+      cellRect:
+        x: 28
+        y: 15
+        width: 52
+        height: 31
+      spriteId: 7298900a7b2a84db6a87cc17b530a582
+    - name: Mechanic Mike_Frame_49
+      frameIndex: 49
+      cellRect:
+        x: 25
+        y: 9
+        width: 48
+        height: 39
+      spriteId: d719026ff1c004435944cd7a52f2a507
+    - name: Mechanic Mike_Frame_50
+      frameIndex: 50
+      cellRect:
+        x: 25
+        y: 5
+        width: 55
+        height: 45
+      spriteId: de35c559cf9034444873a04cf9a7150c
+    - name: Mechanic Mike_Frame_51
+      frameIndex: 51
+      cellRect:
+        x: 22
+        y: 5
+        width: 58
+        height: 44
+      spriteId: 28d1989c4479d4e628ac471e4b472bf2
+    - name: Mechanic Mike_Frame_52
+      frameIndex: 52
+      cellRect:
+        x: 26
+        y: 16
+        width: 25
+        height: 31
+      spriteId: e8f354ffef7bf4a49bdd9dd853546d7f
+    - name: Mechanic Mike_Frame_53
+      frameIndex: 53
+      cellRect:
+        x: 26
+        y: 16
+        width: 24
+        height: 31
+      spriteId: 60d7c6464693f4d06adf413f80bff525
+    - name: Mechanic Mike_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 22
+        y: 16
+        width: 29
+        height: 30
+      spriteId: 20f87d79a8ee54af9a64f59c1d01daf6
+    - name: Mechanic Mike_Frame_54
+      frameIndex: 54
+      cellRect:
+        x: 30
+        y: 28
+        width: 21
+        height: 7
+      spriteId: 41fc6759b500649c89039e8380c85dbc
+    - name: Mechanic Mike_Frame_55
+      frameIndex: 55
+      cellRect:
+        x: 38
+        y: 28
+        width: 9
+        height: 9
+      spriteId: 1f9ed1c3f372d40ac94889bfdf4eb35d
+    - name: Mechanic Mike_Frame_56
+      frameIndex: 56
+      cellRect:
+        x: 32
+        y: 21
+        width: 22
+        height: 23
+      spriteId: f4520062998fc449194bc0ad62bcb418
+    - name: Mechanic Mike_Frame_57
+      frameIndex: 57
+      cellRect:
+        x: 27
+        y: 16
+        width: 34
+        height: 34
+      spriteId: 9f9bd09a1a0ea460db781030fb646432
+    linkedCells: []
+    parentIndex: -1
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Server
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 80, y: 64}
